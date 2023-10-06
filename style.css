@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    height: 308px;
+    background-color: blue; 
+}
+h3 {
+    font-family: font2;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 500px;
+    line-height: normal;
+    padding: 70px 240px;
+}
+.box {
+    width: 1920px;
+    position: absolute;
+    top: 100px;
+}
+.project {
+    display: inline-block;
+    width: 180px;
+    margin-left: 250px;
+
+}

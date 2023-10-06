@@ -1,0 +1,8 @@
+@font-face {
+    font-family: font1;
+    src: url(./ffonts/Helvetica\ Neu\ Bold.ttf) format(truetype);
+}
+ @font-face {
+    font-family: font2;
+    src: url(./ffonts/HelveticaNeue.ttf) format(truetype);
+ }
