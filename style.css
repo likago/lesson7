@@ -21,8 +21,16 @@ h3 {
     top: 100px;
 }
 .project {
+
     display: inline-block;
+    position: relative;
     width: 180px;
     margin-left: 250px;
+}
+.text {
+    background-color: aliceblue rgba(50, 50, 50, 0.5);
+    position: absolute;
+    left: 10px;
+    bottom: 40px;
 
 }
