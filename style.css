@@ -23,26 +23,30 @@ h3 {
 .project1 {
     display: inline-block;
     position: relative;
-    width: 400px;
     margin-left: 250px;
+    width: 463px;
+    height: 420px;
 }
 .project2 {
     display: inline-block;
     position: relative;
-    width: 400px;
     margin-left: 10px;
+    width: 463px;
+    height: 420px;
 }
 .project3 {
     display: inline-block;
     position: relative;
-    width: 400px;
     margin-left: 10px;
+    width: 463px;
+    height: 420px;
 }
 .project4 {
     display: inline-block;
     position: relative;
-    width: 400px;
     margin-left: 10px;
+    width: 463px;
+    height: 420px;
 }
 .images {
     width: 100%;
