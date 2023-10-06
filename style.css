@@ -54,8 +54,13 @@ h3 {
 }
 .text {
     position: absolute;
-    left: 10px;
+    left: 70px;
     bottom: 40px;
-    width: 250px;
+    width: 340px;
+    height: 66px;
+    background-color: rgb(240 240 241 / 80%);
+    border-radius: 5px;
+    text-align: center;
+    padding: 14px;
 
 }
