@@ -20,12 +20,32 @@ h3 {
     position: absolute;
     top: 100px;
 }
-.project {
-
+.project1 {
     display: inline-block;
     position: relative;
-    width: 180px;
+    width: 400px;
     margin-left: 250px;
+}
+.project1 {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 50px;
+}
+.project1 {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 50px;
+}
+.project1 {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    margin-left: 50px;
+}
+.project img {
+    width: 100%;
 }
 .text {
     position: absolute;
