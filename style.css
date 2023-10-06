@@ -18,7 +18,7 @@ h3 {
 .box {
     width: 1920px;
     position: absolute;
-    top: 100px;
+    top: 200px;
 }
 .project1 {
     display: inline-block;
@@ -26,25 +26,25 @@ h3 {
     width: 400px;
     margin-left: 250px;
 }
-.project1 {
+.project2 {
     display: inline-block;
     position: relative;
     width: 400px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
-.project1 {
+.project3 {
     display: inline-block;
     position: relative;
     width: 400px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
-.project1 {
+.project4 {
     display: inline-block;
     position: relative;
     width: 400px;
-    margin-left: 50px;
+    margin-left: 10px;
 }
-.project img {
+.images {
     width: 100%;
 }
 .text {
